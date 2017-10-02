@@ -1,0 +1,307 @@
+{
+  "project_info": {
+    "project_number": "327753031578",
+    "firebase_url": "https://default-demo-app-f823c.firebaseio.com",
+    "project_id": "default-demo-app-f823c",
+    "storage_bucket": "default-demo-app-f823c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327753031578:android:22dbf883a3345b96",
+        "android_client_info": {
+          "package_name": "com.example.sukrit.dubsmash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327753031578-dia9svfmjus1l085pe8jt2dkm96nopn6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sukrit.dubsmash",
+            "certificate_hash": "b9027598e00ed1ce719be7f8e255245177b05f12"
+          }
+        },
+        {
+          "client_id": "327753031578-5ntb4njpnkmpgco8464r2r9tfg5hkb3a.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "327753031578-h72p23r3qaicmhh4pkonit93e8msmsm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlmmmyQG8fYKcLIvE1ecqPW_iO3iw9O2I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327753031578-5ntb4njpnkmpgco8464r2r9tfg5hkb3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327753031578:android:d62ffacb6c3f9f42",
+        "android_client_info": {
+          "package_name": "com.dekhoapp.android.app.base"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327753031578-7ois2g154rvpkahen41r692j7acnh25c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dekhoapp.android.app.base",
+            "certificate_hash": "a96d5094ff6ed8f48a1be968ec1574f7819fd2d8"
+          }
+        },
+        {
+          "client_id": "327753031578-id37ssd6u56s7n4ucbffkdrains7joiu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dekhoapp.android.app.base",
+            "certificate_hash": "ebd549183c96e1df1e3e02b0407151c0dd117421"
+          }
+        },
+        {
+          "client_id": "327753031578-1hv3oe0gurmpqarfv54m0m2gj7hp36ip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dekhoapp.android.app.base",
+            "certificate_hash": "a495720677673ac67193e1188d09bfa71b5fd681"
+          }
+        },
+        {
+          "client_id": "327753031578-5098kdv92nhcr9jvtfl0lju75tnrfn9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dekhoapp.android.app.base",
+            "certificate_hash": "8db84d795f20649b676d76244bb5e617c3ff48e8"
+          }
+        },
+        {
+          "client_id": "327753031578-65r1b7rhl05rs83ve7qgmqfkikfoat62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dekhoapp.android.app.base",
+            "certificate_hash": "ff55fb22a19a759ca14939eba7b3d35d75db43bf"
+          }
+        },
+        {
+          "client_id": "327753031578-lt645v5iivdh11hctrlr98r7leggq9fl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dekhoapp.android.app.base",
+            "certificate_hash": "31af31548f6e741f05937396c5a638e6e7f4d0c3"
+          }
+        },
+        {
+          "client_id": "327753031578-1ir2h6uccjiin6ots5albv2fn9su38tb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dekhoapp.android.app.base",
+            "certificate_hash": "69ff24781a0f3cc42f4de08bd01dda57968b661d"
+          }
+        },
+        {
+          "client_id": "327753031578-asinudvt5qq56m9cd0audbctefctrbl4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dekhoapp.android.app.base",
+            "certificate_hash": "996d1b72344e9ce6d3eb3f92d6ec29dbde4767fe"
+          }
+        },
+        {
+          "client_id": "327753031578-sri8b567gcifsn26am1n5pissn61umdr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dekhoapp.android.app.base",
+            "certificate_hash": "54b0d44437fb30a36e94931248467f2c9dfc59e1"
+          }
+        },
+        {
+          "client_id": "327753031578-eov3vkeuvbmuf184bpfp1g08oa8hjpt4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dekhoapp.android.app.base",
+            "certificate_hash": "53f07998ce5059cef18d91184819c3eeecf8844e"
+          }
+        },
+        {
+          "client_id": "327753031578-hotmmuiktsgj7bcg72hhhcsram53f4sr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dekhoapp.android.app.base",
+            "certificate_hash": "80ec145df8f81d048f0dc3f52b103d021f2f3c2d"
+          }
+        },
+        {
+          "client_id": "327753031578-f264i8apvqhe56nfqdkmrqf4e7sfsb4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dekhoapp.android.app.base",
+            "certificate_hash": "39257d040c5812a0863e28d23142e8467b3e7a6a"
+          }
+        },
+        {
+          "client_id": "327753031578-idsre8j8ctja6nh7p5tv0pl2ig0e06l0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dekhoapp.android.app.base",
+            "certificate_hash": "949eec9cc92da4a1baf676f301e963e1cb1a1ed9"
+          }
+        },
+        {
+          "client_id": "327753031578-0l9cjqqvtn4h2sc079uoenpkavv6cqpb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dekhoapp.android.app.base",
+            "certificate_hash": "12942a6acfae3fb9ef5cde5b8a18969a3c4556d0"
+          }
+        },
+        {
+          "client_id": "327753031578-39d543edlglus701vodte3875kdnmsg6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dekhoapp.android.app.base",
+            "certificate_hash": "4b85ad58cd65d0d8bdbd2b9eed9cb046ee44a4ca"
+          }
+        },
+        {
+          "client_id": "327753031578-uteso0s4292433p50n8tqhrpicr6qq4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dekhoapp.android.app.base",
+            "certificate_hash": "c6cced3e79075562aca2acaf2682759cbab2e51e"
+          }
+        },
+        {
+          "client_id": "327753031578-gjaqnjjq8kjueh9slu1iijhp61cosf7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dekhoapp.android.app.base",
+            "certificate_hash": "c663c437b64458ba5d4ef062b11995749896197a"
+          }
+        },
+        {
+          "client_id": "327753031578-loh54h8klvhl7pha9d4eg7caq3u97qn2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dekhoapp.android.app.base",
+            "certificate_hash": "beba646d11b6628e211f187182a25c91bf7af877"
+          }
+        },
+        {
+          "client_id": "327753031578-lam2vjt44cpi4au1qqs5skkb64ht8svc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dekhoapp.android.app.base",
+            "certificate_hash": "a21545e6c76c1ce6392a148537702778fb3f878a"
+          }
+        },
+        {
+          "client_id": "327753031578-m41s3qpe42otn8ikfldg4n14ogq44jlr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dekhoapp.android.app.base",
+            "certificate_hash": "6a3ef769f5899737c0c44bcc5292d5c36f615cde"
+          }
+        },
+        {
+          "client_id": "327753031578-5ntb4njpnkmpgco8464r2r9tfg5hkb3a.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "327753031578-h72p23r3qaicmhh4pkonit93e8msmsm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlmmmyQG8fYKcLIvE1ecqPW_iO3iw9O2I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327753031578-5ntb4njpnkmpgco8464r2r9tfg5hkb3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327753031578:android:c1739a550f433f92",
+        "android_client_info": {
+          "package_name": "com.example.anup.dekho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327753031578-bvbvattf1n6rrk7ot6f0du4uhamq73kn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anup.dekho",
+            "certificate_hash": "7d2045fbf43758fc5ae54e78374fbe2854bf1e09"
+          }
+        },
+        {
+          "client_id": "327753031578-5ntb4njpnkmpgco8464r2r9tfg5hkb3a.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "327753031578-h72p23r3qaicmhh4pkonit93e8msmsm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlmmmyQG8fYKcLIvE1ecqPW_iO3iw9O2I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327753031578-5ntb4njpnkmpgco8464r2r9tfg5hkb3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

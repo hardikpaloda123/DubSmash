@@ -1,0 +1,30 @@
+buildscript {
+    repositories {
+        mavenLocal()
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.3.1'
+        classpath 'com.google.gms:google-services:3.0.0'
+        classpath 'com.neenbedankt.gradle.plugins:android-apt:1.4'
+
+
+    }
+}
+allprojects {
+    repositories {
+        mavenLocal()
+        jcenter()
+    }
+}
+ext {
+    supportLibraryVersion = '25.0.0'
+    rxandroidVersion = '1.2.1'
+    rxjavaVersion = '1.1.6'
+    retroRxAdapterVersion = '2.1.0'
+    butterknifeVersion = '8.4.0'
+    firebaseVersion = '10.0.1'
+}
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
